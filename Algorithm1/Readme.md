@@ -1,0 +1,1 @@
+Run the Final_SVM_PCA.ipynb on Colab .Install required dependancies like !pip install pillow .copied is the folder created from the the kaggle dataset+ my images.And the model is run on it.
